@@ -2,7 +2,7 @@
 
 Dans le dossie `djangoTP` seul `urls.py` a été modifié.
 
-Une fois tous les fichiers remplacer, lancer `python manage.py runserver`.
+Une fois tous les fichiers remplacés, lancer `python manage.py runserver`.
 
 Depuis le site, il est possible de : 
 - créer un utilisateur
